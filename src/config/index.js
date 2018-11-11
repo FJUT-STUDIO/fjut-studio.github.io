@@ -16,7 +16,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/FJUT-STUDIO',
+      url: 'https://github.com/FJUT-STUDIO'
     }
   ],
 
